@@ -8,7 +8,4 @@
 
 ## Video
 
-<video width="520" height="340" controls>
-  <source src="lab1_tests.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Unit Test Video](image.png)](lab1_tests.mp4)
